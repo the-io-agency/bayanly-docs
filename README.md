@@ -1,7 +1,7 @@
-# i.o Localize Help Center
+# Bayanly Help Center
 
-Public help docs for **i.o Localize | Translate Store**, published with GitHub Pages:
-https://the-io-agency.github.io/i-o-localize-docs/
+Public help docs for **Bayanly: Store Translation**, published with GitHub Pages:
+https://the-io-agency.github.io/bayanly-docs/
 
 ## Editing
 
