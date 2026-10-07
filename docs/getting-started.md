@@ -1,5 +1,9 @@
 # Getting started
 
+After installing, the app opens on **Home**. The setup guide shows each step and ticks it off as you complete it.
+
+![The i.o Localize home page with the setup guide](images/home-setup-guide.webp)
+
 1. **Install the app** from the Shopify App Store and choose your plan. Every plan starts with a 15-day free trial; development stores are free.
 2. **Add a language:** in the app, open **Languages**, add the languages you want to sell in, and publish them when your translations are ready. Customers only see published languages.
 3. **Turn on the app embed:** open **Storefront setup** and click **Open theme editor**. Switch on the **Translations** app embed and save. It's needed for custom content and images per language.

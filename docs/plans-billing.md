@@ -13,6 +13,8 @@ Every plan includes every feature. Your plan follows your Shopify plan:
 * Charges appear on your Shopify invoice.
 * Change your plan, switch between monthly and yearly, or cancel at any time on the **Plans** page.
 
+![The Plans page](images/plans.webp)
+
 ## Discounts for education and charity
 
 Email [hello@theioagency.com](mailto:hello@theioagency.com) for a discount code, then enter it on the **Plans** page before choosing your plan.
