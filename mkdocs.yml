@@ -1,0 +1,43 @@
+site_name: i.o Localize Help Center
+site_description: How to set up and use i.o Localize | Translate Store, the Shopify translation app by The i.o agency.
+site_url: https://the-io-agency.github.io/i-o-localize-docs/
+copyright: "© Input Output Webdesign Co. LLC (The i.o agency) · hello@theioagency.com"
+
+nav:
+  - Help center: index.md
+  - Getting started: getting-started.md
+  - Translating your store: translating.md
+  - Theme content: theme-content.md
+  - Custom content: custom-content.md
+  - Images per language: images.md
+  - Import & export (CSV): import-export.md
+  - Plans & billing: plans-billing.md
+  - FAQ: faq.md
+
+theme:
+  name: material
+  features:
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
